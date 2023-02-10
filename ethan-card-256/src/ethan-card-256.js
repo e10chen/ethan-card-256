@@ -16,6 +16,7 @@ class EthanCard256 extends LitElement {
       color: #2c3e50;
       margin-top: 60px;
     }
+
     body {
       background: cyan;
     }
